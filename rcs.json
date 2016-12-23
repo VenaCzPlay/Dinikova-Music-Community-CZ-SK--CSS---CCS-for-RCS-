@@ -2,7 +2,7 @@
     "room": "[CZ|SK] Diníkova Music Community",
     "author": "_Dinik_",
     "icon": null,
-    "css": null,
+    "css": "https://rawgit.com/VenaCzPlay/Dinikova-Music-Community-CZ-SK--CSS---CCS-for-RCS-/master/community.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
